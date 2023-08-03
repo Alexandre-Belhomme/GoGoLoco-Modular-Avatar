@@ -146,9 +146,7 @@
       "version": "file:fr.spokeek.gogoloco-ma",
       "depth": 0,
       "source": "embedded",
-      "dependencies": {
-        "nadena.dev.modular-avatar": "1.6.0"
-      }
+      "dependencies": {}
     },
     "nadena.dev.modular-avatar": {
       "version": "file:nadena.dev.modular-avatar",
