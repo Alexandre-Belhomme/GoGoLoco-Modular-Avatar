@@ -2,7 +2,7 @@
 
 This repo gives you acccess to a package to integrate GoGoLoco as a Modular Avatar Prefab.
 
-Click here to access to the [Deployed listing](https://alexandre-belhomme.github.io/gogoloco-ma>) <-
+Click here to access to the [Deployed listing](https://alexandre-belhomme.github.io/gogoloco-ma) <-
 
 Modular Avatar will be loaded as a VPM dependency.
 
