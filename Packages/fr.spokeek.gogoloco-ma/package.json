@@ -1,0 +1,20 @@
+{
+  "name": "fr.spokeek.gogoloco-ma",
+  "displayName": "fr.spokeek.gogoloco-ma",
+  "version": "0.0.1",
+  "description": "GoGoLoCo Integration For Modular Avatar",
+  "dependencies": {
+    "nadena.dev.modular-avatar": "1.6.0"
+  },
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "3.2.2"
+  },
+  "author": {
+    "name": "Spokeek",
+    "email": "spokeek@protonmail.com"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "G:\\Projets Unity\\VRChat\\gogoloco-ma\\Packages\\fr.spokeek.gogoloco-ma"
+}

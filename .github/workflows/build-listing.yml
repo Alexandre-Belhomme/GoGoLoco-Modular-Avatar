@@ -1,7 +1,7 @@
 name: Build Repo Listing
 
 env:
-  CurrentPackageName: com.vrchat.demo-template
+  CurrentPackageName: fr.spokeek.gogoloco-ma
   listPublishDirectory: Website
   pathToCi: ci
   

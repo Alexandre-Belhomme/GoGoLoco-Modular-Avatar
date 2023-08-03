@@ -2,4 +2,5 @@
 !com.vrchat.core.*
 
 # Change this to match your new package name
-!com.vrchat.demo-template 
+!fr.spokeek.gogoloco-ma 
+!com.vrchat.core.*/
