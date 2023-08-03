@@ -6,7 +6,7 @@
   "gitDependencies": {},
   "vpmDependencies": {
     "com.vrchat.avatars": "3.2.2",
-    "nadena.dev.modular-avatar": "1.6.0"
+    "nadena.dev.modular-avatar": "^1.6.0"
   },
   "author": {
     "name": "Spokeek",
