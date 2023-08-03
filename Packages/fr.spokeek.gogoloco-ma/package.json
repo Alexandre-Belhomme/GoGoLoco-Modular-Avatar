@@ -1,7 +1,7 @@
 {
   "name": "fr.spokeek.gogoloco-ma",
-  "displayName": "fr.spokeek.gogoloco-ma",
-  "version": "0.0.2",
+  "displayName": "GoGoLoco (Modular Avatar)",
+  "version": "0.0.3",
   "description": "GoGoLoCo Integration For Modular Avatar",
   "gitDependencies": {},
   "vpmDependencies": {
