@@ -1,12 +1,13 @@
 {
   "name": "fr.spokeek.gogoloco-ma",
   "displayName": "GoGoLoco (Modular Avatar)",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "GoGoLoCo Integration For Modular Avatar",
   "gitDependencies": {},
   "vpmDependencies": {
     "com.vrchat.avatars": "3.2.2",
-    "nadena.dev.modular-avatar": "^1.6.0"
+    "nadena.dev.modular-avatar": "^1.6.0",
+    "gogoloco": "^1.7.91"
   },
   "author": {
     "name": "Spokeek",
