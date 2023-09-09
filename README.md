@@ -10,7 +10,7 @@ If you don't have it yet, add is as a vpm list here : <https://modular-avatar.na
 
 ## Setup
 
-- Click here to access to the [Deployed listing](https://alexandre-belhomme.github.io/GoGoLoco-Modular-Avatar) and add the package to VCC
+- Click here to access to the [Deployed listing](https://spokeek.github.io/GoGoLoco-Modular-Avatar) and add the package to VCC
 
 - Add it as your project Dependency
 
