@@ -5,6 +5,9 @@
     },
     "gogoloco": {
       "version": "1.7.91"
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.8.6"
     }
   },
   "locked": {
@@ -28,6 +31,12 @@
       "version": "1.8.3",
       "dependencies": {
         "com.vrchat.avatars": ">=3.2.2"
+      }
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.8.6",
+      "dependencies": {
+        "com.vrchat.avatars": "3.2.x || 3.3.x"
       }
     }
   }
