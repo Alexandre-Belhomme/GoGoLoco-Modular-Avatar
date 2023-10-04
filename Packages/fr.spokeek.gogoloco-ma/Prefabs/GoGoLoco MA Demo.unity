@@ -604,9 +604,10 @@ MonoBehaviour:
   portraitCameraPositionOffset: {x: 0, y: 0, z: 0}
   portraitCameraRotationOffset: {x: 0, y: 1, z: 0, w: -0.00000004371139}
   networkIDs: []
-  customExpressions: 0
-  expressionsMenu: {fileID: 0}
-  expressionParameters: {fileID: 0}
+  customExpressions: 1
+  expressionsMenu: {fileID: 11400000, guid: 024fb8ef5b3988c46b446863c92f4522, type: 2}
+  expressionParameters: {fileID: 11400000, guid: 03a6d797deb62f0429471c4e17ea99a7,
+    type: 2}
   enableEyeLook: 0
   customEyeLookSettings:
     eyeMovement:
@@ -1129,9 +1130,10 @@ MonoBehaviour:
   portraitCameraPositionOffset: {x: 0, y: 0, z: 0}
   portraitCameraRotationOffset: {x: 0, y: 1, z: 0, w: -0.00000004371139}
   networkIDs: []
-  customExpressions: 0
-  expressionsMenu: {fileID: 0}
-  expressionParameters: {fileID: 0}
+  customExpressions: 1
+  expressionsMenu: {fileID: 11400000, guid: 024fb8ef5b3988c46b446863c92f4522, type: 2}
+  expressionParameters: {fileID: 11400000, guid: 03a6d797deb62f0429471c4e17ea99a7,
+    type: 2}
   enableEyeLook: 0
   customEyeLookSettings:
     eyeMovement:

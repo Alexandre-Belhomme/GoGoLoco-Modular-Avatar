@@ -2,6 +2,9 @@
   "dependencies": {
     "nadena.dev.modular-avatar": {
       "version": "1.6.0"
+    },
+    "gogoloco": {
+      "version": "1.7.91"
     }
   },
   "locked": {
@@ -20,6 +23,12 @@
     "com.vrchat.base": {
       "version": "3.2.2",
       "dependencies": {}
+    },
+    "gogoloco": {
+      "version": "1.7.91",
+      "dependencies": {
+        "com.vrchat.avatars": "3.2.2"
+      }
     }
   }
 }
