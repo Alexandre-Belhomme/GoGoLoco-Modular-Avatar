@@ -2,6 +2,12 @@
 
 This repo gives you acccess to a package to integrate GoGoLoco as a Modular Avatar Prefab.
 
+## Deprecation
+
+This project is considered as deprecated as upstream package gogoloco supports Modular Avatar since the version 1.8.6.
+
+This package is then not necessary anymore.
+
 ## Requirements
 
 Modular Avatar will be loaded as a VPM dependency.
