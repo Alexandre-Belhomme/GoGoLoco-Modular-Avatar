@@ -18,40 +18,40 @@
   },
   "locked": {
     "nadena.dev.modular-avatar": {
-      "version": "1.8.4",
+      "version": "1.9.16",
       "dependencies": {
-        "com.vrchat.avatars": ">=3.2.0",
-        "nadena.dev.ndmf": ">=1.2.5 <2.0.0-a"
+        "com.vrchat.avatars": ">=3.4.0",
+        "nadena.dev.ndmf": ">=1.4.1 <2.0.0-a"
       }
     },
     "gogoloco": {
-      "version": "1.8.3",
+      "version": "1.8.6",
       "dependencies": {
         "com.vrchat.avatars": ">=3.2.2"
       }
     },
     "vrchat.blackstartx.gesture-manager": {
-      "version": "3.8.8",
+      "version": "3.9.2",
       "dependencies": {
-        "com.vrchat.avatars": "3.2.x || 3.3.x || 3.4.x || 3.5.x"
+        "com.vrchat.avatars": ">=3.5.2 <3.8.X"
       }
     },
     "nadena.dev.ndmf": {
-      "version": "1.2.5",
+      "version": "1.4.1",
       "dependencies": {}
     },
     "com.vrchat.core.vpm-resolver": {
-      "version": "0.1.27",
+      "version": "0.1.29",
       "dependencies": {}
     },
     "com.vrchat.avatars": {
-      "version": "3.5.0",
+      "version": "3.7.1",
       "dependencies": {
-        "com.vrchat.base": "3.5.0"
+        "com.vrchat.base": "3.7.1"
       }
     },
     "com.vrchat.base": {
-      "version": "3.5.0",
+      "version": "3.7.1",
       "dependencies": {}
     }
   }
