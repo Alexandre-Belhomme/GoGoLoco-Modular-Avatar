@@ -10,6 +10,7 @@
     "nadena.dev.modular-avatar": ">=1.8.0",
     "gogoloco": ">=1.8.6"
   },
+  "yanked": "Modular Avatar support done in upstream package gogoloco",
   "author": {
     "name": "Spokeek",
     "email": "spokeek@protonmail.com",
